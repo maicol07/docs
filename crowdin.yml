@@ -1,0 +1,9 @@
+files:
+  - source: '*.md'
+    ignore:
+      - it/**/*
+    translation: '%original_path%/%original_file_name%'
+  - source: '*.html'
+    ignore:
+      - it/**/*
+    translation: '%original_path%/%original_file_name%'
