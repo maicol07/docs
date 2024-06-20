@@ -1,0 +1,30 @@
+<!--
+title: Billing
+description: 
+published: true
+date: 2022-06-18T14:20:14.381Z
+tags: 
+editor: code
+dateCreated: 2022-06-18T10:00:06.801Z
+-->
+
+<h1 class="toc-header" id="billing"> Fatturazione</h1>
+<p>Se avete un abbonamento attivo acquistato da questi documenti, potete gestirlo qui:</p>
+<form action="https://lv.maicol07.it/stripe-portal.php" method="POST">
+  <label class="mdc-text-field mdc-text-field--filled">
+  	<span class="mdc-text-field__ripple"></span>
+  	<span class="mdc-floating-label" id="subscription-id">ID abbonamento</span>
+  	<input class="mdc-text-field__input" type="text"
+       	  aria-labelledby="subscription-id"
+      	   aria-controls="subscription-id"
+    	     aria-describedby="subscription-id"
+   	      name="sub_id">
+  	<span class="mdc-line-ripple"></span>
+	</label>
+	<div class="mdc-text-field-helper-line">
+	  <div class="mdc-text-field-helper-text" id="invoice-id" aria-hidden="true">L'ID dell'abbonamento ricevuto al momento della sottoscrizione</div>
+	</div>
+  <button class="mdc-button mdc-button--raised">
+    <span class="mdc-button__label">Gestisci fatturazione</span>
+  </button>
+</form>

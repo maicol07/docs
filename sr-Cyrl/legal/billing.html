@@ -1,0 +1,30 @@
+<!--
+title: Billing
+description: 
+published: true
+date: 2022-06-18T14:20:14.381Z
+tags: 
+editor: code
+dateCreated: 2022-06-18T10:00:06.801Z
+-->
+
+<h1 class="toc-header" id="billing"> Billing</h1>
+<p>If you have any subscription active purchased from these docs, you can manage them here:</p>
+<form action="https://lv.maicol07.it/stripe-portal.php" method="POST">
+  <label class="mdc-text-field mdc-text-field--filled">
+  	<span class="mdc-text-field__ripple"></span>
+  	<span class="mdc-floating-label" id="subscription-id">Subscription ID</span>
+  	<input class="mdc-text-field__input" type="text"
+       	  aria-labelledby="subscription-id"
+      	   aria-controls="subscription-id"
+    	     aria-describedby="subscription-id"
+   	      name="sub_id">
+  	<span class="mdc-line-ripple"></span>
+	</label>
+	<div class="mdc-text-field-helper-line">
+	  <div class="mdc-text-field-helper-text" id="invoice-id" aria-hidden="true">Your subscription ID you got when you subscribed</div>
+	</div>
+  <button class="mdc-button mdc-button--raised">
+    <span class="mdc-button__label">Manage billing</span>
+  </button>
+</form>
