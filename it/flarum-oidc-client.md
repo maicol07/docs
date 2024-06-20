@@ -221,7 +221,7 @@ Major changes are marked with :exclamation:
 
   - Settings -> Connect to OIDC
   - Logout
-  - Login
+  - Accesso
 - `d9f0962` Restore missing provider name setting
 - `245ddb7` Enforce correct types via casting
 - `27c0b15` Fix default settings not working
