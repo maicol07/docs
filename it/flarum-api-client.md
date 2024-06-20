@@ -33,11 +33,11 @@ Altri metodi di installazione _possono_ funzionare, ma non sono suggeriti e non 
 
 ## :warning: Attenzione
 
-### Since 1.1.2
+### Dalla 1.1.2
 
-- **Guzzle 6 will be supported during until its EOL. [Guzzle Version Guidance](https://github.com/guzzle/guzzle#version-guidance)** (support dropped from 1.3)
+- **Guzzle 6 sarà supportato fino alla sua scadenza. [Guzzle Version Guidance](https://github.com/guzzle/guzzle#version-guidance)** (supporto abbandonato dalla 1.3)
 
-### Since 1.1.1
+### Dalla 1.1.1
 
 - **Se usi Laravel 6 o 7 non sarai in grado di eseguire i test di PHPUnit se non installi il 7**
 - **Laravel 6 e 7 saranno supportati fino a quando Laravel non li supporterà più con fix di sicurezza. [Politica di supporto di Laravel](https://laravel.com/docs/8.x/releases#support-policy)**
