@@ -158,7 +158,7 @@ Allo stesso modo, possono esservi altre circostanze in cui vi è un interesse le
 
 Valutiamo attentamente ogni requisito di divulgazione e prendiamo in considerazione la possibilità di dover far fronte a tali richieste di divulgazione al momento di decidere dove e come archiviare i dati personali degli utenti.
 
-# Sources
+# Fonti
 
 Mentre Maicol07 raccoglie la maggior parte dei dati citati in precedenza direttamente dal cliente o dal suo dispositivo, riceve dati anche dai partner di terze parti. Maicol07 acquisisce anche alcuni dati personali di base (data degli ordini per gli acquisti) e aggrega i dati analitici degli app store in cui vengono venduti i servizi. Queste altre fonti possono anche includere gli appaltatori che hanno fornito al cliente assistenza per i nostri servizi o i partner pubblicitari che hanno assistito Maicol07 nelle attività di marketing.
 
@@ -222,7 +222,7 @@ Hai il diritto di chiederci quali dati personali su di te sono in nostro possess
 
 Hai diritto a obiettare ad alcune modalità di elaborazione dei dati personali, ad esempio quelle per motivi di marketing o quando basiamo la nostra elaborazione dei tuoi dati su interessi legittimi. In quest’ultimo caso, dovrai fornire una motivazione legalmente valida per la tua obiezione.
 
-### Right to be forgotten
+### Diritto all'oblio
 
 Hai anche diritto a chiederci di interrompere l’archiviazione dei tuoi dati personali e di cancellarli. In questo caso, dovrai fornire una motivazione legale valida per la richiesta.
 
