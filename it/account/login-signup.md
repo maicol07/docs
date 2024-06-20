@@ -1,6 +1,6 @@
 ---
 title: Accesso e registrazione
-description: How can I login or sign up to Maicol07 Account?
+description: Come posso accedere o iscrivermi a Maicol07 Account?
 published: true
 date: 2020-09-10T08:54:45.275Z
 tags: maicol07-account
@@ -8,18 +8,18 @@ editor: markdown
 dateCreated: 2020-09-10T08:54:38.963Z
 ---
 
-To use a component of the network that requires authentication you need to have an account at Maicol07 Account.
+Per utilizzare un componente della rete che richiede l'autenticazione è necessario avere un account su Maicol07 Account.
 
-## Sign up
+## Iscriviti
 
-1. Go to [Maicol07 Account](https://account.maicol07.it) and press the _Create an account_ button.
-   ![](../../../img/signup-1.png "Signup: step 1"); if you want, you can signin with a social provider like Google or Facebook (buttons are located in the login page)
-2. Fill the form with the required info and press the _Signup_ button.
-3. Check your inbox or **SPAM FOLDER** for a verification email. Click the _Verify email_ button. If you did right, you should be redirected to the dashboard
+1. Vai su [Maicol07 Account](https://account.maicol07.it) e premi il pulsante _Crea un account_.
+   ![](../../../img/signup-1.png "Registrazione: step 1"); se si vuole, si può effettuare l'accesso con un social provider come Google o Facebook (i pulsanti si trovano nella pagina di login)
+2. Compila il modulo con le informazioni richieste e premi il pulsante _Registrati_.
+3. Controlla la tua casella di posta o **CARTELLA SPAM** per un'email di verifica. Clicca sul pulsante _Verifica email_. Se hai fatto bene, dovresti essere reindirizzato alla dashboard
 
-## Login
+## Accesso
 
-You can login with your username/password on [Maicol07 Account](https://account.maicol07.it) and then press the _Login_ button. You can also check the remind me checkbox to automatically login the next time you want to sign in! You can signin with a social provider like Google or Facebook
+Puoi accedere con il tuo username/password su [account Maicol07](https://account.maicol07.it) e quindi premere il pulsante _Accedi_. Puoi anche selezionare la casella di controllo Ricordami per accedere automaticamente la prossima volta che vuoi accedere! È possibile effettuare l'accesso con un provider social come Google o Facebook
 
-If you have enabled [Two Factor Authentication](account/twofactor) you need to enter your 2FA auth code in your authenticator app (like Authy).
-![login-twofactor](../../../img/login-twofactor.png "2FA auth code request when you login")
+Se si è attivata l'[Autenticazione a due fattori] (account/due fattori), è necessario inserire il codice di autenticazione 2FA nell'app Autenticatore (come Authy).
+![login-twofactor](../../../img/login-twofactor.png "Richiesta del codice di autenticazione 2FA al login")
