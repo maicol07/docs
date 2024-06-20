@@ -1,5 +1,5 @@
 ---
-title: Login and Signup
+title: Accesso e registrazione
 description: How can I login or sign up to Maicol07 Account?
 published: true
 date: 2020-09-10T08:54:45.275Z
