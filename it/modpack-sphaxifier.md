@@ -2,11 +2,14 @@
 title: Modpack Sphaxifier
 description: A tool to create a resource pack for Minecraft modpacks. Designed principally for Sphax mod patches.
 published: true
-date: 2023-01-20T09:24:54.770Z
+date: 2024-09-09T13:14:44.982Z
 tags: minecraft, modpack-sphaxifier
 editor: markdown
 dateCreated: 2020-09-14T14:57:28.095Z
 ---
+
+> Note: The follow product is no more supported and has been archived
+> {.is-warning}
 
 # Caratteristiche
 
@@ -24,9 +27,14 @@ dateCreated: 2020-09-14T14:57:28.095Z
 
 # Installazione
 
-You can download the installer from this link:
+~~You can download the installer from this link:~~
 
-- [Download](https://maicol07.it/modpack_sphaxifier)
+- ~~[Download](https://maicol07.it/modpack_sphaxifier)~~
+  {.links-list}
+
+Modpack Sphaxifier is now open source (archived):
+
+- [Github](https://github.com/maicol07/modpack_sphaxifier)
   {.links-list}
 
 # Upgrade
